@@ -9,5 +9,6 @@ This visualstudio shortcut key setting like eclipse
 ## Show Hint           Crtl + !
 ## Quick Sugestion     Alt  + /
 ## Go Refrecnce        F3
+## Open Resource       Crtl + Shift + R
 
 ....
